@@ -1,0 +1,39 @@
+{
+  "instagram": [
+    {
+      "profile": "a.moldobaev",
+      "photoprofile": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Arabian_Purebred_Stallion_0001.jpg/200px-Arabian_Purebred_Stallion_0001.jpg",
+      "photo": "https://lh3.googleusercontent.com/proxy/8rMa0cR6DO_mOYZub8zLkRvAuWymOnRGXzhyDMmILiAyUIkqqrYOuqnA53DZTBtX64tzjjll384ojqoXcUZyB15MNrQYq7YaGCJbn1m9umTw-aIWX1M",
+      "description": "Nature of",
+      "id": 1
+    },
+    {
+      "profile": "aidar",
+      "photoprofile": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "photo": "https://kyrgyzstan-tourism.com/wp-content/uploads/2020/03/Tien-Shan.jpg",
+      "description": "zzz",
+      "id": 2
+    },
+    {
+      "profile": "aidar",
+      "photoprofile": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "photo": "https://kyrgyzstan-tourism.com/wp-content/uploads/2020/03/Tien-Shan.jpg",
+      "description": "zzz",
+      "id": 3
+    },
+    {
+      "profile": "4ika",
+      "photoprofile": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "photo": "https://adventuresoflilnicki.com/wp-content/uploads/2020/07/Sary-Chelek-Kyrgyzstan.jpg",
+      "description": "sary",
+      "id": 4
+    },
+    {
+      "profile": "janar",
+      "photoprofile": "https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_1280.png",
+      "photo": "https://i.ytimg.com/vi/mGmatD85gb0/hqdefault.jpg",
+      "description": "это мой конь",
+      "id": 5
+    }
+  ]
+}
